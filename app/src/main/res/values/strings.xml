@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EditText</string>
+
+    <string name="email_address">Email Address</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="password">Password</string>
+    <string name="user_id">User ID</string>
+    <string name="ip_address">IP Address</string>
+    <string name="telephone_number">Telephone number</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="year">Year</string>
+    <string name="clear">clear</string>
+    <string name="submit">submit</string>
+    <string name="re_enter_password1">Re-enter password</string>
+
+    <string-array name="select">
+    <item>
+        Please select one</item>
+        <item>Phone</item>
+        <item>Email</item>
+    </string-array>
+
+</resources>
